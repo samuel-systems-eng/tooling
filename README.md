@@ -28,5 +28,3 @@ The project leverages the following technologies:
 | Docker Tag | GitHub Release | Nginx Version | PHP Version | Ubuntu Version |
 |-----|-------|-----|--------|--------|
 | latest | master Branch |1.17.2 | 8.3 | Latest |
-
-# FINAL MODIFICATION OF README TO CONFIRM COMMITS AT GITHUB BUILDS JENKINS SUCCESSFULLY AND REGISTERS AT NFS SERVER
