@@ -29,4 +29,4 @@ The project leverages the following technologies:
 |-----|-------|-----|--------|--------|
 | latest | master Branch |1.17.2 | 8.3 | Latest |
 
-# MODIFYING README TO TEST AND CONFIRM THAT JENKINS SERVER PUSHES COMMITS TO NFS SERVER
+# FINAL MODIFICATION OF README TO CONFIRM COMMITS AT GITHUB BUILDS JENKINS SUCCESSFULLY AND REGISTERS AT NFS SERVER
