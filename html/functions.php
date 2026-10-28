@@ -2,7 +2,7 @@
 session_start();
 
 // connect to database
-$db = mysqli_connect('steghub-project15-rds-instance.cv60qk6k8vru.eu-north-1.rds.amazonaws.com -P 3306', 'admin', 'password', 'tooling');
+$db = mysqli_connect('steghub-project15-rds-instance.cv60qk6k8vru.eu-north-1.rds.amazonaws.com', 'admin', 'password', 'tooling', '3306');
 
 // Check connection
 // if (mysqli_connect_errno()) {
